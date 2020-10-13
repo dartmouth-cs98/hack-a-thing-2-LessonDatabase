@@ -9,4 +9,7 @@
     * Course
     * Teacher
     
+ ![](https://github.com/dartmouth-cs98/hack-a-thing-2-LessonDatabase/blob/master/Screen%20Shot%202020-10-12%20at%209.51.07%20PM.png)
+    
+    
    
